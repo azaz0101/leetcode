@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/azaz0101/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/azaz0101/leetcode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/azaz0101/leetcode/tree/master/0118-pascals-triangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/azaz0101/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
