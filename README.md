@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/azaz0101/leetcode/tree/master/0112-path-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/azaz0101/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/azaz0101/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
