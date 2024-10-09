@@ -13,15 +13,19 @@ struct ListNode* removeElements(struct ListNode* head, int val) {
         if (now->val == val){
             if (now == head){
                 head = head->next;
+                free(now);
+                now = head;
             }
             else {
                 pre->next = now->next;
+                free(now);
+                now = pre->next;
             }
         }
         else {
             pre = now;
+            now = now->next;
         }
-        now = now->next;
     }
     return head;
 }
