@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/azaz0101/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/azaz0101/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1580-shuffle-the-array](https://github.com/azaz0101/leetcode/tree/master/1580-shuffle-the-array) |
+| [2621-find-xor-beauty-of-array](https://github.com/azaz0101/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/azaz0101/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/azaz0101/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/azaz0101/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2621-find-xor-beauty-of-array](https://github.com/azaz0101/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/azaz0101/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/azaz0101/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/azaz0101/leetcode/tree/master/0202-happy-number) |
+| [2621-find-xor-beauty-of-array](https://github.com/azaz0101/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
 |  |
 | ------- |
