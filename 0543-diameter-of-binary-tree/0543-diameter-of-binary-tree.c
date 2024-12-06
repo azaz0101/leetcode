@@ -20,13 +20,12 @@ int tree_height(struct TreeNode *root){
         if ((l_h + r_h) > diameter){
             diameter = l_h + r_h;
         }
-        printf("%d %d %d\n", root->val, l_h, r_h);
         return (l_h > r_h) ? l_h + 1 : r_h + 1;
     }
 }
 
 int diameterOfBinaryTree(struct TreeNode* root) {
     diameter = 0;
-    printf("%d\n", tree_height(root));
+    tree_height(root);
     return diameter;
 }
