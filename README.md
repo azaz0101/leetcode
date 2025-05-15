@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/azaz0101/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/azaz0101/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/azaz0101/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/azaz0101/leetcode/tree/master/0191-number-of-1-bits) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/azaz0101/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/azaz0101/leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/azaz0101/leetcode/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/azaz0101/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/azaz0101/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/azaz0101/leetcode/tree/master/0202-happy-number) |
